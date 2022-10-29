@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Justin Yi Cheng\Desktop\Coding\App Development\2022_10_24\school_menu_app\build\windows\CMakeFiles\78dad97ca18fd3b069ff008a82619d08\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7FD1ECBD-A1D3-368C-B243-0F0B914D9866}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

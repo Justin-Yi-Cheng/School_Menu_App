@@ -1,0 +1,10 @@
+^C:\USERS\JUSTIN YI CHENG\DESKTOP\CODING\APP DEVELOPMENT\2022_10_24\SCHOOL_MENU_APP\BUILD\WINDOWS\CMAKEFILES\C60BD1008145183A68DFDCECEE115E9B\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
